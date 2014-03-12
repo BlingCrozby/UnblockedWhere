@@ -12,9 +12,5 @@
           "128": "icon128.png" },
     "content_security_policy": "script-src 'self' https://freegeoip.net/json/; 'https://gdata.youtube.com/feeds/api/videos/'; object-src 'self'",
     "version": "1",
-    "manifest_version": 2,
-    "browser_action": {
-	"default_icon": "icon.png",
-        "default_title": "Unblocked Where"
-    }
+    "manifest_version": 2
 }
