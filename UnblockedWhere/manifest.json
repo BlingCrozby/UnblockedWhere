@@ -11,6 +11,6 @@
            "48": "icon48.png",
           "128": "icon128.png" },
     "content_security_policy": "script-src 'self' https://freegeoip.net/json/; 'https://gdata.youtube.com/feeds/api/videos/'; object-src 'self'",
-    "version": "1",
+    "version": "1.0.1.2",
     "manifest_version": 2
 }
